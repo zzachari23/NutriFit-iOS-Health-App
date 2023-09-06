@@ -6,7 +6,5 @@ The project's overall purpose is to demonstrate my ability to master new program
 
 ## Built With
 
-*Swift
-*SwiftUI
-*Xcode 
-*JSON API
+* Rstudio 
+* R
