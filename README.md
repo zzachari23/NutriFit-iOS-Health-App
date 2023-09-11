@@ -10,7 +10,7 @@ The project's overall purpose is to demonstrate my ability to master new program
 * SwiftUI
 * Xcode
   
-## Example
+## Examples
 <p float="left">
   <img src="https://github.com/zzachari23/zzachari23/blob/main/NutriFit.gif" width="300" height = "250"/>
 </p>
